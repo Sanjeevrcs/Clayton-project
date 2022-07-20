@@ -44,7 +44,7 @@ html,body{
 
 
 .simage{
-    background-color: #F89938;
+   
     transform: rotate(0deg);
     z-index: -1;
     position: absolute;
